@@ -1,1 +1,1 @@
-# oasisinfobyte-task-1
+# oasisinfobyte-task
